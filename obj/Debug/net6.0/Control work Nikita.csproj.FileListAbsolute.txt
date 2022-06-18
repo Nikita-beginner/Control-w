@@ -1,0 +1,15 @@
+D:\VS\Seminar5\Control work Nikita\bin\Debug\net6.0\Control work Nikita.exe
+D:\VS\Seminar5\Control work Nikita\bin\Debug\net6.0\Control work Nikita.deps.json
+D:\VS\Seminar5\Control work Nikita\bin\Debug\net6.0\Control work Nikita.runtimeconfig.json
+D:\VS\Seminar5\Control work Nikita\bin\Debug\net6.0\Control work Nikita.dll
+D:\VS\Seminar5\Control work Nikita\bin\Debug\net6.0\Control work Nikita.pdb
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.csproj.AssemblyReference.cache
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.AssemblyInfoInputs.cache
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.AssemblyInfo.cs
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.csproj.CoreCompileInputs.cache
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.dll
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\refint\Control work Nikita.dll
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.pdb
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\Control work Nikita.genruntimeconfig.cache
+D:\VS\Seminar5\Control work Nikita\obj\Debug\net6.0\ref\Control work Nikita.dll
